@@ -3,6 +3,7 @@ The system includes user authentication, job posting and searching, proposal sub
 The project also applies EER modeling, relational schema design, and normalization to ensure organized and consistent data management.
 
 
+
 How to Run:
 
 Install XAMPP and start Apache and MySQL.
