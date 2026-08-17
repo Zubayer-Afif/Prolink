@@ -4,6 +4,7 @@ The project also applies EER modeling, relational schema design, and normalizati
 
 
 How to Run:
+
 Install XAMPP and start Apache and MySQL.
 Extract the "prolink.zip" file into the XAMPP htdocs folder.
 Open phpMyAdmin by visiting "http://localhost/phpmyadmin".
